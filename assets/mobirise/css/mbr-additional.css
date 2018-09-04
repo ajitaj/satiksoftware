@@ -1203,7 +1203,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #ffffff;
 }
 .cid-r2AhJNiE7y button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1272,6 +1272,10 @@ body {
 .cid-r2AhJNiE7y .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item,
 .cid-r2AhJNiE7y .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
+}
+.cid-r2AhJNiE7y .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-r2AhJNiE7y .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
 }
 .cid-r2AhJNiE7y .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r2AhJNiE7y .collapsed .navbar-collapse.show .navbar-buttons {
@@ -1376,6 +1380,10 @@ body {
   .cid-r2AhJNiE7y .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-r2AhJNiE7y .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-r2AhJNiE7y .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-r2AhJNiE7y .navbar-collapse.collapsing .navbar-buttons,
   .cid-r2AhJNiE7y .navbar-collapse.show .navbar-buttons {
     display: flex;
@@ -1455,6 +1463,13 @@ body {
 .cid-r2AhJNiE7y .nav-link:hover,
 .cid-r2AhJNiE7y .dropdown-item:hover {
   color: #4284df;
+}
+.cid-r2AhJNiE7y .widget-title,
+.cid-r2AhJNiE7y .widget-icon {
+  color: #ffffff;
+}
+.cid-r2AhJNiE7y .widget-text {
+  color: #ffffff;
 }
 .cid-r2AhRE85kJ .media-container-column .btn-bgr {
   z-index: 0;
