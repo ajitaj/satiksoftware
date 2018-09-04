@@ -1009,6 +1009,7 @@ body {
   width: 100%;
   padding: 0 2rem;
   position: relative;
+  justify-content: center;
 }
 @media (min-width: 992px) {
   .cid-r2AhJNiE7y .navbar .menu-content-top {
@@ -1050,7 +1051,7 @@ body {
     display: none;
   }
   .cid-r2AhJNiE7y .navbar-collapse {
-    justify-content: flex-start;
+    justify-content: center;
   }
 }
 .cid-r2AhJNiE7y .navbar-short .menu-content-top {
