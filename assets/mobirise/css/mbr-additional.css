@@ -1513,6 +1513,10 @@ body {
     text-align: center;
   }
 }
+.cid-r2AiUB3k3y .card-title,
+.cid-r2AiUB3k3y .card-img {
+  color: #4284df;
+}
 .cid-r2Aj2ZRQ2i {
   padding-top: 0px;
   padding-bottom: 90px;
@@ -1551,6 +1555,10 @@ body {
   .cid-r2Aj2ZRQ2i p.date {
     text-align: center;
   }
+}
+.cid-r2Aj2ZRQ2i .card-title,
+.cid-r2Aj2ZRQ2i .card-img {
+  color: #4284df;
 }
 .cid-r2AjVodlqX {
   padding-top: 90px;
@@ -1641,6 +1649,9 @@ body {
   .cid-r2AjVodlqX .mbr-text {
     text-align: center;
   }
+}
+.cid-r2AjVodlqX .content-list-title {
+  color: #4284df;
 }
 .cid-r2E8ySgr8p {
   padding-top: 60px;
